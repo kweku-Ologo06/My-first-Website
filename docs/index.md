@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hello World my name is Jordan Ologo and You can use the [editor on GitHub](https://github.com/kweku-Ologo06/My-first-Website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hello World my name is Jordan Ologo and i am the xreator of the website you are viewing now and You can use the [editor on GitHub](https://github.com/kweku-Ologo06/My-first-Website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
