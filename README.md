@@ -1,2 +1,2 @@
 # My-first-Website
-My first Website reository
+My first Website repository
