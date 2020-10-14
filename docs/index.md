@@ -1,17 +1,24 @@
-## Welcome to GitHub Pages
+## Sweet N Treats With KiKi Jae
 
-Hello World my name is Jordan Ologo and i am the creator of the website you are viewing now and You can use the [editor on GitHub](https://github.com/kweku-Ologo06/My-first-Website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+
+<h1>Hello beloved viewers my name is Jaeda Ologo aka KiKi Jae because i am into youtubing. Okay so i started cooking at the age of 8 i was a bit rusty around thee edges but as 
+I was growing up i was getting the hang of it, but up till today i have mastered all the recipes and can cook like Gordon Ramsay😍.(JUST KIDDING). SO some of my acheivements  
+ in cooking are;" Pretzels, Doughnut, Authentic Pancakes etc. I was even able to accomplish my very on BOURBSHAKE. It is a mixture of chocolate biscuit with sprinkles you will
+find the recipe with the rest of the recipes down below😋👇👇. And i also love to dance its my PASSION. Also i like to read & create youtube videos when am free at the time.
+ And most of I LOVE TO COOKING thats my GREATEST PASSION. THANK YOU FOR REDING THIS WEBSITE. I LOVE YOU ALL.❤❤
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+## Recipes:
+    1/2 gallon of ice-cream
+    .1/2 cup of all purpose-flour (any kind of flour will do)
+    .1 cup of cocoa powder minus 2 table spoons
+    .1/2 teaspoon of salt
+    .1 cup of granulated sugar
+    .1/2 cup of margarine.
+    .2 egg yolks
+    .2 teaspoons of pineapple extract
 ## Header 2
 ### Header 3
 
